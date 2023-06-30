@@ -10,3 +10,9 @@ const addH1ToApp = () => {
 
 addH1ToApp();
 
+function sayBye() {
+    console.log('bye');
+}
+
+sayBye();
+
