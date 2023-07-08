@@ -1,4 +1,4 @@
 console.log('hello Garik!');
 console.log('Garik is power');
-console.log('kli');
-console.log('kli2');
+console.log('kli1');
+console.log('kli4');
